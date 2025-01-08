@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**arthur-girardin-calbe/arthur-girardin-calbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?  
+Je suis un étudiant de premire année à [Epitech](https://www.epitech.eu), passionné par l'informatique et le développement logiciel. 🎓 
 
-Here are some ideas to get you started:
+## Ce que je fais 🚀  
+- 💻 Je programme principalement en **C** et en **Python**.  
+- 🔍 Toujours curieux d'apprendre de nouvelles technologies et d'explorer de nouveaux concepts en programmation.  
+- 🛠️ J'aime relever des défis techniques et travailler sur des projets intéressants, principalement des projets orientés vers le développement logiciel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contactez-moi 📬  
+Si vous voulez discuter, collaborer ou simplement échanger des idées, n'hésitez pas à me contacter :  
+- [LinkedIn](www.linkedin.com/in/arthur-girardin-calbe)  
+- [Email](mailto:arthur.girardin-calbe@epitech.eu)
+
+Merci de visiter mon profil ! 😊
